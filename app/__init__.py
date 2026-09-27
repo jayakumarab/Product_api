@@ -1,0 +1,1 @@
+"""Products API application package."""

@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Sony WH-1000XM5 Wireless Headphones",
+    "brand": "Sony",
+    "category": "Electronics",
+    "description": "Industry leading noise canceling headphones with 2 processors and 8 microphones.",
+    "price": 399.99,
+    "stock": 45,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500"
+  },
+  {
+    "name": "Apple MacBook Air M2",
+    "brand": "Apple",
+    "category": "Computers",
+    "description": "13.6-inch Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Midnight color.",
+    "price": 1099.00,
+    "stock": 20,
+    "image_url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500"
+  },
+  {
+    "name": "Logitech MX Master 3S",
+    "brand": "Logitech",
+    "category": "Accessories",
+    "description": "Performance wireless mouse with 8K DPI sensor and quiet clicks.",
+    "price": 99.99,
+    "stock": 80,
+    "image_url": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500"
+  },
+  {
+    "name": "Samsung 34-Inch Curved Gaming Monitor",
+    "brand": "Samsung",
+    "category": "Electronics",
+    "description": "Ultra WQHD 165Hz 1ms curved gaming monitor with HDR10.",
+    "price": 549.99,
+    "stock": 15,
+    "image_url": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500"
+  },
+  {
+    "name": "Keychron K2 Mechanical Keyboard",
+    "brand": "Keychron",
+    "category": "Accessories",
+    "description": "Wireless Bluetooth/USB mechanical keyboard with Gateron G Pro Brown switches.",
+    "price": 79.99,
+    "stock": 60,
+    "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500"
+  },
+  {
+    "name": "Nike Air Zoom Pegasus 40",
+    "brand": "Nike",
+    "category": "Footwear",
+    "description": "Responsive road running shoes with breathable engineered mesh upper.",
+    "price": 130.00,
+    "stock": 100,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500"
+  }
+]
+
